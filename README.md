@@ -14,7 +14,7 @@ worked on [Tesla](https://www.tesla.com) · interned at [Raytheon](https://www.r
 
 <br />
 
-public work: [agent-ui-sft](https://huggingface.co/datasets/akashnaren/agent-ui-sft) · [agent-ui-human](https://huggingface.co/datasets/akashnaren/agent-ui-human) · [agent-ui-efficiency-scores](https://huggingface.co/datasets/akashnaren/agent-ui-efficiency-scores) · [agent-ui-mode-pairs](https://huggingface.co/datasets/akashnaren/agent-ui-mode-pairs) · [ui-mode-router](https://huggingface.co/akashnaren/ui-mode-router) · [agent-ui-router](https://huggingface.co/spaces/akashnaren/agent-ui-router)
+public work: [agent-ui-sft](https://huggingface.co/datasets/akashnaren/agent-ui-sft) · [agent-ui-human](https://huggingface.co/datasets/akashnaren/agent-ui-human) · [agent-ui-efficiency-scores](https://huggingface.co/datasets/akashnaren/agent-ui-efficiency-scores) · [agent-ui-mode-pairs](https://huggingface.co/datasets/akashnaren/agent-ui-mode-pairs) · [ui-mode-router](https://huggingface.co/akashnaren/ui-mode-router) · [agent-ui-router](https://huggingface.co/spaces/akashnaren/agent-ui-router) · [lab collection](https://huggingface.co/collections/akashnaren/agent-ui-lab-6a9a8e06fec692165b0b3c07)
 
 <br />
 
