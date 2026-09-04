@@ -6,7 +6,7 @@
 
 I build agents and vehicle systems.
 
-[site](https://akashnaren.github.io/) · [bot](https://akashnaren.github.io/bot) · [hf](https://huggingface.co/akashnaren) · [kaggle](https://www.kaggle.com/akashpnaren) · [cursor](https://cursor.com/@akashpn) · [x](https://x.com/akashpn) · [linkedin](https://www.linkedin.com/in/akash-premkumar-39826b1b7/) · [github](https://github.com/akashnaren) · [email](mailto:akashnaren@gmail.com)
+[site](https://akashnaren.github.io/) · [bot](https://akashnaren.github.io/bot) · [hf](https://huggingface.co/akashnaren) · [kaggle](https://www.kaggle.com/akashpnaren) · [cursor](https://cursor.com/@akashpn) · [orcid](https://orcid.org/0009-0001-8877-9527) · [x](https://x.com/akashpn) · [linkedin](https://www.linkedin.com/in/akash-premkumar-39826b1b7/) · [github](https://github.com/akashnaren) · [email](mailto:akashnaren@gmail.com)
 
 <br />
 
