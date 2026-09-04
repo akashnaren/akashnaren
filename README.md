@@ -1,27 +1,19 @@
-<div align="center">
+# Akash
 
-<img src="favicon.svg" width="40" alt="A" />
+I'm figuring out how agents should use software.
 
-# Akash Premkumar
+A person gets a screen of buttons. An agent might want something cheaper — a CLI, a structured API, a short form, or a few clicks. Those cost different amounts. I don't think one UI wins for every job.
 
-I build agents and vehicle systems.
+So I run a small public lab on that question. I write synthetic traces, note a preferred mode, and train a tiny router that picks. The artifacts are lab-made. They are not production data.
 
-[site](https://akashnaren.github.io/) · [bot](https://akashnaren.github.io/bot) · [hf](https://huggingface.co/akashnaren) · [kaggle](https://www.kaggle.com/akashpnaren) · [cursor](https://cursor.com/@akashpn) · [orcid](https://orcid.org/0009-0001-8877-9527) · [x](https://x.com/akashpn) · [linkedin](https://www.linkedin.com/in/akash-premkumar-39826b1b7/) · [github](https://github.com/akashnaren) · [email](mailto:akashnaren@gmail.com)
+The question lives in [agent-ui-metrics](https://github.com/akashnaren/agent-ui-metrics). The pieces:
 
-<br />
+- [agent-ui-sft](https://huggingface.co/datasets/akashnaren/agent-ui-sft) — multi-turn tool traces, each tagged with a UI mode
+- [agent-ui-human](https://huggingface.co/datasets/akashnaren/agent-ui-human) — one request, a preferred UI, and a short why
+- [agent-ui-mode-pairs](https://huggingface.co/datasets/akashnaren/agent-ui-mode-pairs) — this mode over that one
+- [agent-ui-efficiency-scores](https://huggingface.co/datasets/akashnaren/agent-ui-efficiency-scores) — a small lab score table
+- [ui-mode-router](https://huggingface.co/akashnaren/ui-mode-router) · [demo](https://huggingface.co/spaces/akashnaren/agent-ui-router) — a toy sklearn router
 
-worked on [Tesla](https://www.tesla.com) · interned at [Raytheon](https://www.rtx.com/raytheon) · [NASA LSPACE](https://www.lspace.asu.edu/) · [UCSD](https://ucsd.edu)
+They're in the [Agent UI lab](https://huggingface.co/collections/akashnaren/agent-ui-lab-6a9a8e06fec692165b0b3c07) collection.
 
-<br />
-
-public work: [agent-ui-sft](https://huggingface.co/datasets/akashnaren/agent-ui-sft) · [agent-ui-human](https://huggingface.co/datasets/akashnaren/agent-ui-human) · [agent-ui-efficiency-scores](https://huggingface.co/datasets/akashnaren/agent-ui-efficiency-scores) · [agent-ui-mode-pairs](https://huggingface.co/datasets/akashnaren/agent-ui-mode-pairs) · [ui-mode-router](https://huggingface.co/akashnaren/ui-mode-router) · [agent-ui-router](https://huggingface.co/spaces/akashnaren/agent-ui-router) · [lab collection](https://huggingface.co/collections/akashnaren/agent-ui-lab-6a9a8e06fec692165b0b3c07)
-
-<br />
-
-<sub>lab / single-author artifacts, not Tesla or production telemetry</sub>
-
-<br />
-
-<sub>GitHub only draws org chips on the contribution heatmap from public org commits. I don't have those, so none here.</sub>
-
-</div>
+[site](https://akashnaren.github.io/) · [bot](https://akashnaren.github.io/bot) · [cursor](https://cursor.com/@akashpn) · [x](https://x.com/akashpn)
