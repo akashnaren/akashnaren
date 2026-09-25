@@ -1,3 +1,3 @@
 # Akash
 
-I build things. I am exploring new areas to research.
+I make things. I am exploring new areas to research.
